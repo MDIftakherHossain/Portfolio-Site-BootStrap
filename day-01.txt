@@ -1,0 +1,74 @@
+1. psd split
+2. bootstrap over view (GRID system) xl,md.sm.xs.col
+3. container , row, col
+
+
+
+img, color, font
+
+
+1. Alt+Mouse left button
+2. image -> trim -> transparent -> ok
+3. save as -> select png -> ok
+4. history -> first file
+
+
+1. bootstrap file link up
+
+
+container-> row-> 
+1. col-lg-3
+2. col-lg-9
+
+
+1. google font integrate
+
+font-family: 'Open Sans', sans-serif;
+
+
+how to add fonts:
+
+1. google fonts -> fonts.google.com
+2. click -> option -> select-> embed-> 
+link -> index.html -> header 
+import - style.css
+
+font-family: 'Open Sans', sans-serif;
+
+
+icon (font-awesome)
+
+
+font awesome file folder .... css file link up kore diben
+
+easy -> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xl-md-sm-xs
+
+
+
+
+
+open sans
+
+
+
+
+

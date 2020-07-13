@@ -1,0 +1,55 @@
+1. install sublime text 3 
+2. adobe photoshop 2018 - 2020 
+
+html e 
+
+1. block element (h1-h6), p
+2. inline-block   (span. img, a, input)
+
+
+form:
+type: text
+number
+email
+password
+checkbox
+
+
+submit
+
+class er name er age akta .
+
+
+padding/margin
+
+position:
+1. absolute
+fixed,static (top,left,bottom.right)
+4. relative
+
+
+
+
+
+
+
+
+
+
+
+//////// Home Work ///////
+
+1. registration form
+2. CV
+
+3. html er tag , css
+4.  
+
+
+
+
+
+
+
+
+
